@@ -6,7 +6,7 @@ transient_data = {}
 transient_array = []
 
 #change this to wherever you would like the file to save to
-path_name = "/Users/landon/Desktop/testJSON"
+path_name = "<File path>"
 
 '''
 crawls the website specified and finds the table on the website and returns
